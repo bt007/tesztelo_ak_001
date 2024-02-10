@@ -1,4 +1,5 @@
-Master branch első commit. B branch módosítás
+
+Master branch első commit. Először volt C branch módosítás, majd utána volt a B branch módosítás.
 
 Beolvasom a jelszó.txt-ből az adatábzis felhasználó nevét
 és jelszavát, amely alapján csatolakomzom a szoftverből a 
