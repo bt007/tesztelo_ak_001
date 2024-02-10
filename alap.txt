@@ -1,0 +1,5 @@
+Master branch első commit.
+
+Beolvasom a jelszó.txt-ből az adatábzis felhasználó nevét
+és jelszavát, amely alapján csatolakomzom a szoftverből a 
+rendszer adatbázisához. 
