@@ -1,4 +1,4 @@
-Master branch első commit.
+Master branch első commit. C branch módosítás
 
 Beolvasom a jelszó.txt-ből az adatábzis felhasználó nevét
 és jelszavát, amely alapján csatolakomzom a szoftverből a 
